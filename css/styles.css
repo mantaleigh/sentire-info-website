@@ -29,6 +29,12 @@ hr {
     margin-bottom: 15px;
 }
 
+.sentireimg {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
 hr.light {
     border-color: #fff;
 }
